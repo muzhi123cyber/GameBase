@@ -1,0 +1,4 @@
+[{"Hp":10,"Atk":2,"Def":1,"Speed":4,"MoveDis":1,"MoveSpeed":2,"FindDis":5,"AtkDis":0.6,"MeetTime":0.5,"AtkTime":1,"IdelTime":2},
+ {"Hp":15,"Atk":3,"Def":0,"Speed":7,"MoveDis":1,"MoveSpeed":2,"FindDis":5,"AtkDis":1  ,"MeetTime":0.5,"AtkTime":1,"IdelTime":2},
+ {"Hp":20,"Atk":1,"Def":1,"Speed":3,"MoveDis":1,"MoveSpeed":2,"FindDis":5,"AtkDis":20 ,"MeetTime":0.5,"AtkTime":1,"IdelTime":2}]
+
